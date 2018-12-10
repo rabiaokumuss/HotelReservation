@@ -1,0 +1,10 @@
+C:\Users\X\Desktop\otel-rezervasyonu\otel-rezervasyonu\bin\Debug\otel-rezervasyonu.exe.config
+C:\Users\X\Desktop\otel-rezervasyonu\otel-rezervasyonu\bin\Debug\otel-rezervasyonu.exe
+C:\Users\X\Desktop\otel-rezervasyonu\otel-rezervasyonu\bin\Debug\otel-rezervasyonu.pdb
+C:\Users\X\Desktop\otel-rezervasyonu\otel-rezervasyonu\obj\Debug\otel-rezervasyonu.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\otel-rezervasyonu\otel-rezervasyonu\obj\Debug\otel_rezervasyonu.Form1.resources
+C:\Users\X\Desktop\otel-rezervasyonu\otel-rezervasyonu\obj\Debug\otel_rezervasyonu.Properties.Resources.resources
+C:\Users\X\Desktop\otel-rezervasyonu\otel-rezervasyonu\obj\Debug\otel-rezervasyonu.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\otel-rezervasyonu\otel-rezervasyonu\obj\Debug\otel-rezervasyonu.exe
+C:\Users\X\Desktop\otel-rezervasyonu\otel-rezervasyonu\obj\Debug\otel-rezervasyonu.pdb
+C:\Users\X\Desktop\otel-rezervasyonu\otel-rezervasyonu\bin\Debug\MySql.Data.dll
